@@ -1,0 +1,1472 @@
+# Nmap 7.92 scan initiated Sat Dec 11 02:02:48 2021 as: nmap -iL redbull.com/recon/httprobe/alive.txt -T4 -oA redbull.com/recon/scans/scanned.txt
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.103 (server-54-182-0-103.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.103 (server-54-182-0-103.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 94.56.27.141 ()	Status: Up
+Host: 94.56.27.141 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.18.210.56 ()	Status: Up
+Host: 104.18.210.56 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 52.28.117.198 (ec2-52-28-117-198.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.28.117.198 (ec2-52-28-117-198.eu-central-1.compute.amazonaws.com)	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (994)
+Host: 52.28.34.158 (ec2-52-28-34-158.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.28.34.158 (ec2-52-28-34-158.eu-central-1.compute.amazonaws.com)	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (994)
+Host: 18.194.56.197 (ec2-18-194-56-197.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.194.56.197 (ec2-18-194-56-197.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 198.22.138.70 ()	Status: Up
+Host: 198.22.138.70 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 143.204.9.63 (server-143-204-9-63.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.63 (server-143-204-9-63.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.115 (server-13-227-138-115.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.115 (server-13-227-138-115.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.32 (server-13-227-138-32.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.32 (server-13-227-138-32.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.42 (server-13-227-138-42.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.42 (server-13-227-138-42.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.2 (server-13-227-138-2.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.2 (server-13-227-138-2.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.9 (server-54-182-0-9.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.9 (server-54-182-0-9.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.51 (server-54-182-0-51.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.51 (server-54-182-0-51.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 151.101.154.51 ()	Status: Up
+Host: 151.101.154.51 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.96.94 ()	Status: Up
+Host: 104.16.96.94 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 143.204.9.14 (server-143-204-9-14.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.14 (server-143-204-9-14.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.204.9.83 (server-143-204-9-83.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.83 (server-143-204-9-83.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.98 (server-99-86-162-98.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.98 (server-99-86-162-98.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.80.88.150 (ec2-99-80-88-150.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 99.80.88.150 (ec2-99-80-88-150.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.145 ()	Status: Up
+Host: 195.177.199.145 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.150 ()	Status: Up
+Host: 195.177.199.150 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.1 ()	Status: Up
+Host: 194.107.83.1 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.12 ()	Status: Up
+Host: 194.107.83.12 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.226.175.37 (server-13-226-175-37.mxp64.r.cloudfront.net)	Status: Up
+Host: 13.226.175.37 (server-13-226-175-37.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.226.175.104 (server-13-226-175-104.mxp64.r.cloudfront.net)	Status: Up
+Host: 13.226.175.104 (server-13-226-175-104.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.89 (server-54-182-0-89.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.89 (server-54-182-0-89.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.78 (server-99-86-162-78.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.78 (server-99-86-162-78.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.44 (server-99-86-162-44.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.44 (server-99-86-162-44.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.204.9.51 (server-143-204-9-51.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.51 (server-143-204-9-51.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 18.197.185.192 (ec2-18-197-185-192.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.197.185.192 (ec2-18-197-185-192.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.120.149.210 (210.149.120.34.bc.googleusercontent.com)	Status: Up
+Host: 34.120.149.210 (210.149.120.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Status: Up
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 212.162.13.166 (d166b.x-mailer.de)	Status: Up
+Host: 212.162.13.166 (d166b.x-mailer.de)	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 3306/open/tcp//mysql///, 8443/open/tcp//https-alt///
+Host: 134.119.27.214 ()	Status: Up
+Host: 134.119.27.214 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 54.182.0.84 (server-54-182-0-84.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.84 (server-54-182-0-84.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.7 (server-54-182-0-7.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.7 (server-54-182-0-7.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.158 ()	Status: Up
+Host: 194.107.83.158 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Status: Up
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 151.101.154.51 ()	Status: Up
+Host: 151.101.154.51 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.187 ()	Status: Up
+Host: 194.107.83.187 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.35.33.80 (ec2-52-35-33-80.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 52.35.33.80 (ec2-52-35-33-80.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.36 (server-13-227-138-36.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.36 (server-13-227-138-36.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 51.144.182.8 ()	Status: Up
+Host: 51.144.182.8 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.210.233.21 (21.233.210.35.bc.googleusercontent.com)	Status: Up
+Host: 35.210.233.21 (21.233.210.35.bc.googleusercontent.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 52.59.169.199 (ec2-52-59-169-199.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.59.169.199 (ec2-52-59-169-199.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 216.239.34.21 (any-in-2215.1e100.net)	Status: Up
+Host: 216.239.34.21 (any-in-2215.1e100.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.190.79.248 (248.79.190.35.bc.googleusercontent.com)	Status: Up
+Host: 35.190.79.248 (248.79.190.35.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 54.182.0.92 (server-54-182-0-92.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.92 (server-54-182-0-92.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.21 (server-54-182-0-21.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.21 (server-54-182-0-21.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.248.176.92 (a46a250059e296ddb.awsglobalaccelerator.com)	Status: Up
+Host: 13.248.176.92 (a46a250059e296ddb.awsglobalaccelerator.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 52.28.174.187 (ec2-52-28-174-187.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.28.174.187 (ec2-52-28-174-187.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.22 (server-54-182-0-22.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.22 (server-54-182-0-22.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.32 (server-13-227-138-32.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.32 (server-13-227-138-32.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.127 (server-54-182-0-127.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.127 (server-54-182-0-127.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.251.150.194 (ec2-54-251-150-194.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 54.251.150.194 (ec2-54-251-150-194.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.255.159.67 (ec2-54-255-159-67.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 54.255.159.67 (ec2-54-255-159-67.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 13.228.146.236 (ec2-13-228-146-236.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.228.146.236 (ec2-13-228-146-236.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 105.27.198.6 ()	Status: Up
+Host: 105.27.198.6 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 103.19.196.91 ()	Status: Up
+Host: 103.19.196.91 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 93.113.104.52 ()	Status: Up
+Host: 93.113.104.52 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 93.113.104.51 ()	Status: Up
+Host: 93.113.104.51 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 52.59.126.88 (ec2-52-59-126-88.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.59.126.88 (ec2-52-59-126-88.eu-central-1.compute.amazonaws.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.197.55.40 (ec2-18-197-55-40.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.197.55.40 (ec2-18-197-55-40.eu-central-1.compute.amazonaws.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.193.131.77 (ec2-18-193-131-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.193.131.77 (ec2-18-193-131-77.eu-central-1.compute.amazonaws.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.93 (server-13-227-138-93.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.93 (server-13-227-138-93.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.124 (server-54-182-0-124.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.124 (server-54-182-0-124.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.182.0.8 (server-54-182-0-8.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.8 (server-54-182-0-8.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.30 ()	Status: Up
+Host: 194.107.83.30 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 134.119.2.98 (m05s4-2-20db.ispgateway.de)	Status: Up
+Host: 134.119.2.98 (m05s4-2-20db.ispgateway.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 52.58.53.147 (ec2-52-58-53-147.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.58.53.147 (ec2-52-58-53-147.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.5.26.174 (ec2-52-5-26-174.compute-1.amazonaws.com)	Status: Up
+Host: 52.5.26.174 (ec2-52-5-26-174.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.19 (server-99-86-162-19.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.19 (server-99-86-162-19.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.54 (server-13-227-138-54.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.54 (server-13-227-138-54.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 185.140.84.220 ()	Status: Up
+Host: 185.140.84.220 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 52673/open/tcp//unknown///, 52822/open/tcp//unknown///, 52848/open/tcp//unknown///, 52869/open/tcp//unknown///	Ignored State: filtered (994)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.42 ()	Status: Up
+Host: 194.107.83.42 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 45.9.62.84 (v220200547873117466.supersrv.de)	Status: Up
+Host: 45.9.62.84 (v220200547873117466.supersrv.de)	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 1154/filtered/tcp//resacommunity///, 2222/open/tcp//EtherNetIP-1///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (991)
+Host: 91.204.193.173 ()	Status: Up
+Host: 91.204.193.173 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.163 ()	Status: Up
+Host: 91.204.193.163 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.18.210.56 ()	Status: Up
+Host: 104.18.210.56 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.22.138.60 ()	Status: Up
+Host: 198.22.138.60 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 195.177.199.152 ()	Status: Up
+Host: 195.177.199.152 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.157 ()	Status: Up
+Host: 195.177.199.157 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.156 ()	Status: Up
+Host: 195.177.199.156 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.241 ()	Status: Up
+Host: 194.107.83.241 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.242 ()	Status: Up
+Host: 194.107.83.242 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 34.107.180.138 (138.180.107.34.bc.googleusercontent.com)	Status: Up
+Host: 34.107.180.138 (138.180.107.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.102.201.190 (190.201.102.34.bc.googleusercontent.com)	Status: Up
+Host: 34.102.201.190 (190.201.102.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.107.241.251 (251.241.107.34.bc.googleusercontent.com)	Status: Up
+Host: 34.107.241.251 (251.241.107.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 198.22.138.41 ()	Status: Up
+Host: 198.22.138.41 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.22.138.60 ()	Status: Up
+Host: 198.22.138.60 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 40.126.4.104 ()	Status: Up
+Host: 40.126.4.104 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.124.237.58 (ec2-3-124-237-58.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 3.124.237.58 (ec2-3-124-237-58.eu-central-1.compute.amazonaws.com)	Ports: 21/closed/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (996)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.120.69.22 (22.69.120.34.bc.googleusercontent.com)	Status: Up
+Host: 34.120.69.22 (22.69.120.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.117.9.161 (161.9.117.34.bc.googleusercontent.com)	Status: Up
+Host: 34.117.9.161 (161.9.117.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 143.204.9.45 (server-143-204-9-45.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.45 (server-143-204-9-45.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.155 ()	Status: Up
+Host: 195.177.199.155 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.153.57.23 (213-153-57-23.stat.salzburg-online.at)	Status: Up
+Host: 213.153.57.23 (213-153-57-23.stat.salzburg-online.at)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 213.227.189.21 ()	Status: Up
+Host: 213.227.189.21 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.182.0.116 (server-54-182-0-116.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.116 (server-54-182-0-116.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.62.52.241 (52-241.static.spheral.ru)	Status: Up
+Host: 195.62.52.241 (52-241.static.spheral.ru)	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (993)
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Status: Up
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 106/open/tcp//pop3pw///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 5666/open/tcp//nrpe///, 8443/open/tcp//https-alt///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (983)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 151.101.154.51 ()	Status: Up
+Host: 151.101.154.51 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.121 (server-54-182-0-121.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.121 (server-54-182-0-121.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Status: Up
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 106/open/tcp//pop3pw///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 5666/open/tcp//nrpe///, 8443/open/tcp//https-alt///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (983)
+Host: 217.114.209.152 (h-217.114.209.152.keyweb.de)	Status: Up
+Host: 217.114.209.152 (h-217.114.209.152.keyweb.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 87.118.122.14 (km32803.keymachine.de)	Status: Up
+Host: 87.118.122.14 (km32803.keymachine.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.202.168.65 (ec2-52-202-168-65.compute-1.amazonaws.com)	Status: Up
+Host: 52.202.168.65 (ec2-52-202-168-65.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.53.111 ()	Status: Up
+Host: 104.16.53.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 20.50.2.16 ()	Status: Up
+Host: 20.50.2.16 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 20.50.2.13 ()	Status: Up
+Host: 20.50.2.13 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 20.50.2.31 ()	Status: Up
+Host: 20.50.2.31 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.21 ()	Status: Up
+Host: 194.107.83.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.185 ()	Status: Up
+Host: 194.107.83.185 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.19 ()	Status: Up
+Host: 194.107.83.19 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.174 ()	Status: Up
+Host: 194.107.83.174 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.25 ()	Status: Up
+Host: 194.107.83.25 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.29 ()	Status: Up
+Host: 194.107.83.29 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.4 (server-13-227-138-4.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.4 (server-13-227-138-4.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.88 (server-54-182-0-88.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.88 (server-54-182-0-88.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.5 (server-54-182-0-5.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.5 (server-54-182-0-5.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 212.78.2.58 (php7p01.promo.it)	Status: Up
+Host: 212.78.2.58 (php7p01.promo.it)	Ports: 21/open/tcp//ftp///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.21 (server-54-182-0-21.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.21 (server-54-182-0-21.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 151.101.154.97 ()	Status: Up
+Host: 151.101.154.97 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 95.129.209.197 (rb-induction-stage.hk-net.de)	Status: Up
+Host: 95.129.209.197 (rb-induction-stage.hk-net.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 95.129.209.196 (rb-induction.hk-net.de)	Status: Up
+Host: 95.129.209.196 (rb-induction.hk-net.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 95.129.209.197 (rb-induction-stage.hk-net.de)	Status: Up
+Host: 95.129.209.197 (rb-induction-stage.hk-net.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 95.129.209.196 (rb-induction.hk-net.de)	Status: Up
+Host: 95.129.209.196 (rb-induction.hk-net.de)	Ports: 80/open/tcp//http///, 443/open/tcp//https///
+Host: 80.190.129.133 (scnem.com)	Status: Up
+Host: 80.190.129.133 (scnem.com)	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.169 ()	Status: Up
+Host: 91.204.193.169 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8081/open/tcp//blackice-icecap///	Ignored State: filtered (997)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.170.209.161 (ec2-54-170-209-161.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.170.209.161 (ec2-54-170-209-161.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.39 ()	Status: Up
+Host: 194.107.83.39 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 873/open/tcp//rsync///	Ignored State: filtered (997)
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///, 2222/open/tcp//EtherNetIP-1///	Ignored State: filtered (996)
+Host: 54.182.0.93 (server-54-182-0-93.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.93 (server-54-182-0-93.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.169 ()	Status: Up
+Host: 91.204.193.169 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8081/open/tcp//blackice-icecap///	Ignored State: filtered (997)
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.141.159 (server-13-227-141-159.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.141.159 (server-13-227-141-159.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 151.101.154.51 ()	Status: Up
+Host: 151.101.154.51 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 134.119.47.64 ()	Status: Up
+Host: 134.119.47.64 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 77.91.237.16 ()	Status: Up
+Host: 77.91.237.16 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 52.28.35.60 (ec2-52-28-35-60.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.28.35.60 (ec2-52-28-35-60.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.174 ()	Status: Up
+Host: 91.204.193.174 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.164 ()	Status: Up
+Host: 91.204.193.164 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8443/open/tcp//https-alt///	Ignored State: filtered (997)
+Host: 13.227.138.46 (server-13-227-138-46.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.46 (server-13-227-138-46.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 194.107.83.248 ()	Status: Up
+Host: 194.107.83.248 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.182.0.103 (server-54-182-0-103.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.103 (server-54-182-0-103.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.5 (server-54-182-0-5.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.5 (server-54-182-0-5.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.124 (server-54-182-0-124.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.124 (server-54-182-0-124.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.81 (server-54-182-0-81.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.81 (server-54-182-0-81.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.81 (server-54-182-0-81.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.81 (server-54-182-0-81.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.68 (server-54-182-0-68.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.68 (server-54-182-0-68.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.36 (server-54-182-0-36.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.36 (server-54-182-0-36.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Status: Up
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Status: Up
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.183 ()	Status: Up
+Host: 194.107.83.183 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.159 ()	Status: Up
+Host: 194.107.83.159 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.2 (logon.redbull.com)	Status: Up
+Host: 194.107.83.2 (logon.redbull.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.242.245.188 (188.245.242.35.bc.googleusercontent.com)	Status: Up
+Host: 35.242.245.188 (188.245.242.35.bc.googleusercontent.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.232 ()	Status: Up
+Host: 195.177.199.232 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.151 ()	Status: Up
+Host: 195.177.199.151 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.150 ()	Status: Up
+Host: 195.177.199.150 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.155 ()	Status: Up
+Host: 195.177.199.155 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 198.22.138.65 ()	Status: Up
+Host: 198.22.138.65 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.22.138.70 ()	Status: Up
+Host: 198.22.138.70 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///, 2222/open/tcp//EtherNetIP-1///	Ignored State: filtered (996)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Status: Up
+Host: 34.201.80.84 (ec2-34-201-80-84.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.0.170 (a23-213-0-170.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.0.170 (a23-213-0-170.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.62.52.241 (52-241.static.spheral.ru)	Status: Up
+Host: 195.62.52.241 (52-241.static.spheral.ru)	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (993)
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 44.241.203.231 (ec2-44-241-203-231.us-west-2.compute.amazonaws.com)	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///, 2222/open/tcp//EtherNetIP-1///	Ignored State: filtered (996)
+Host: 13.226.175.19 (server-13-226-175-19.mxp64.r.cloudfront.net)	Status: Up
+Host: 13.226.175.19 (server-13-226-175-19.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.14 ()	Status: Up
+Host: 194.107.83.14 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 142.250.205.243 (maa05s28-in-f19.1e100.net)	Status: Up
+Host: 142.250.205.243 (maa05s28-in-f19.1e100.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.57 (server-99-86-162-57.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.57 (server-99-86-162-57.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 34.120.226.132 (132.226.120.34.bc.googleusercontent.com)	Status: Up
+Host: 34.120.226.132 (132.226.120.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 91.204.193.164 ()	Status: Up
+Host: 91.204.193.164 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8443/open/tcp//https-alt///	Ignored State: filtered (997)
+Host: 138.201.149.15 (hetzner.devup.cc)	Status: Up
+Host: 138.201.149.15 (hetzner.devup.cc)	Ports: 22/filtered/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 111/filtered/tcp//rpcbind///, 443/open/tcp//https///, 587/filtered/tcp//submission///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 3306/filtered/tcp//mysql///, 5432/filtered/tcp//postgresql///, 8080/filtered/tcp//http-proxy///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (988)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 195.177.199.155 ()	Status: Up
+Host: 195.177.199.155 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.9 ()	Status: Up
+Host: 194.107.83.9 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 87.118.84.176 (km36016.keymachine.de)	Status: Up
+Host: 87.118.84.176 (km36016.keymachine.de)	Ports: 20/closed/tcp//ftp-data///, 21/closed/tcp//ftp///, 22/open/tcp//ssh///, 53/open/tcp//domain///, 80/closed/tcp//http///, 110/closed/tcp//pop3///, 143/closed/tcp//imap///, 443/open/tcp//https///, 587/closed/tcp//submission///, 993/closed/tcp//imaps///, 995/closed/tcp//pop3s///, 2222/open/tcp//EtherNetIP-1///, 9000/open/tcp//cslistener///, 30000/closed/tcp//ndmps///	Ignored State: filtered (986)
+Host: 87.118.84.178 (km37320.keymachine.de)	Status: Up
+Host: 87.118.84.178 (km37320.keymachine.de)	Ports: 20/closed/tcp//ftp-data///, 21/closed/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///, 2222/open/tcp//EtherNetIP-1///, 5666/open/tcp//nrpe///	Ignored State: filtered (993)
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 3.220.57.224 (ec2-3-220-57-224.compute-1.amazonaws.com)	Status: Up
+Host: 3.220.57.224 (ec2-3-220-57-224.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.21 ()	Status: Up
+Host: 213.227.189.21 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 213.227.189.22 ()	Status: Up
+Host: 213.227.189.22 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 213.227.189.25 ()	Status: Up
+Host: 213.227.189.25 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 52.212.52.84 (ec2-52-212-52-84.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.30 ()	Status: Up
+Host: 194.107.83.30 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.146 ()	Status: Up
+Host: 195.177.199.146 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.151 ()	Status: Up
+Host: 195.177.199.151 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.156 ()	Status: Up
+Host: 195.177.199.156 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.28 (server-99-86-162-28.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.28 (server-99-86-162-28.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.63 (server-54-182-0-63.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.63 (server-54-182-0-63.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.204.9.114 (server-143-204-9-114.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.114 (server-143-204-9-114.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.194.140 ()	Status: Up
+Host: 91.204.194.140 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 198.22.138.34 ()	Status: Up
+Host: 198.22.138.34 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 27.111.223.188 ()	Status: Up
+Host: 27.111.223.188 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.255 ()	Status: Up
+Host: 194.107.83.255 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.243 ()	Status: Up
+Host: 194.107.83.243 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 198.22.138.34 ()	Status: Up
+Host: 198.22.138.34 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 27.111.223.188 ()	Status: Up
+Host: 27.111.223.188 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.255 ()	Status: Up
+Host: 194.107.83.255 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.243 ()	Status: Up
+Host: 194.107.83.243 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 91.204.194.140 ()	Status: Up
+Host: 91.204.194.140 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 151.101.154.51 ()	Status: Up
+Host: 151.101.154.51 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.155.40.233 (ec2-54-155-40-233.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.155.40.233 (ec2-54-155-40-233.eu-west-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.182.0.48 (server-54-182-0-48.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.48 (server-54-182-0-48.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.119 (server-13-227-138-119.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.119 (server-13-227-138-119.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.65 (server-54-182-0-65.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.65 (server-54-182-0-65.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.155.86.141 (pcms.redbull.com)	Status: Up
+Host: 213.155.86.141 (pcms.redbull.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.194.101 ()	Status: Up
+Host: 91.204.194.101 ()	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 53/filtered/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///, 515/filtered/tcp//printer///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (991)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 35.156.194.162 (ec2-35-156-194-162.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.22.138.34 ()	Status: Up
+Host: 198.22.138.34 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.255 ()	Status: Up
+Host: 194.107.83.255 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 194.107.83.243 ()	Status: Up
+Host: 194.107.83.243 ()	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 213.155.86.141 (pcms.redbull.com)	Status: Up
+Host: 213.155.86.141 (pcms.redbull.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.18.211.56 ()	Status: Up
+Host: 104.18.211.56 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 54.216.252.255 (ec2-54-216-252-255.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.216.252.255 (ec2-54-216-252-255.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 139.59.157.62 ()	Status: Up
+Host: 139.59.157.62 ()	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (993)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.202.41 (ec2-18-158-202-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 3.127.71.139 (ec2-3-127-71-139.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 134.119.156.242 ()	Status: Up
+Host: 134.119.156.242 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.218.163.227 (ec2-34-218-163-227.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 52.166.178.208 ()	Status: Up
+Host: 52.166.178.208 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.166.178.208 ()	Status: Up
+Host: 52.166.178.208 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.182.0.9 (server-54-182-0-9.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.9 (server-54-182-0-9.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.70 (server-99-86-162-70.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.70 (server-99-86-162-70.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.38 (server-13-227-138-38.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.38 (server-13-227-138-38.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.120.149.210 (210.149.120.34.bc.googleusercontent.com)	Status: Up
+Host: 34.120.149.210 (210.149.120.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Status: Up
+Host: 34.107.238.217 (217.238.107.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 52.204.242.176 (ec2-52-204-242-176.compute-1.amazonaws.com)	Status: Up
+Host: 52.204.242.176 (ec2-52-204-242-176.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.223.204.159 (ec2-34-223-204-159.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.204.242.176 (ec2-52-204-242-176.compute-1.amazonaws.com)	Status: Up
+Host: 52.204.242.176 (ec2-52-204-242-176.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.32 ()	Status: Up
+Host: 195.177.199.32 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 134.119.2.98 (m05s4-2-20db.ispgateway.de)	Status: Up
+Host: 134.119.2.98 (m05s4-2-20db.ispgateway.de)	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.201.192.229 (static.229.192.201.195.clients.your-server.de)	Status: Up
+Host: 195.201.192.229 (static.229.192.201.195.clients.your-server.de)	Ports: 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 443/open/tcp//https///, 444/open/tcp//snpp///, 445/open/tcp//microsoft-ds///, 49154/open/tcp//unknown///	Ignored State: filtered (993)
+Host: 104.95.190.61 (a104-95-190-61.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.95.190.61 (a104-95-190-61.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.10 ()	Status: Up
+Host: 194.107.83.10 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 194.107.83.151 ()	Status: Up
+Host: 194.107.83.151 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 873/open/tcp//rsync///, 2001/open/tcp//dc///	Ignored State: filtered (996)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 13.227.138.113 (server-13-227-138-113.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.113 (server-13-227-138-113.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.68 ()	Status: Up
+Host: 13.107.246.68 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.16 ()	Status: Up
+Host: 194.107.83.16 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Status: Up
+Host: 46.38.251.123 (v1201912109774104369.yourpserver.net)	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 106/open/tcp//pop3pw///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 5666/open/tcp//nrpe///, 8443/open/tcp//https-alt///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (983)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.247.69.169 (ec2-54-247-69-169.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.156.7.224 (ec2-35-156-7-224.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 35.156.7.224 (ec2-35-156-7-224.eu-central-1.compute.amazonaws.com)	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (994)
+Host: 18.158.252.21 (ec2-18-158-252-21.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.252.21 (ec2-18-158-252-21.eu-central-1.compute.amazonaws.com)	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (994)
+Host: 52.205.50.87 (ec2-52-205-50-87.compute-1.amazonaws.com)	Status: Up
+Host: 52.205.50.87 (ec2-52-205-50-87.compute-1.amazonaws.com)	Ports: 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (994)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.62.53.135 (53-135.static.spheral.ru)	Status: Up
+Host: 195.62.53.135 (53-135.static.spheral.ru)	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///, 443/open/tcp//https///, 2323/filtered/tcp//3d-nfsd///, 3005/filtered/tcp//deslogin///, 50002/filtered/tcp//iiimsf///	Ignored State: closed (993)
+Host: 91.204.193.164 ()	Status: Up
+Host: 91.204.193.164 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8443/open/tcp//https-alt///	Ignored State: filtered (997)
+Host: 54.182.0.127 (server-54-182-0-127.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.127 (server-54-182-0-127.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.158 ()	Status: Up
+Host: 194.107.83.158 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.57.202.36 (a23-57-202-36.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.57.202.36 (a23-57-202-36.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 134.119.87.61 ()	Status: Up
+Host: 134.119.87.61 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///
+Host: 213.227.189.22 ()	Status: Up
+Host: 213.227.189.22 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.107.246.48 ()	Status: Up
+Host: 13.107.246.48 ()	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 104.16.51.111 ()	Status: Up
+Host: 104.16.51.111 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 8080/open/tcp//http-proxy///, 8443/open/tcp//https-alt///	Ignored State: filtered (996)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.57.202.36 (a23-57-202-36.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.57.202.36 (a23-57-202-36.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 198.185.159.144 ()	Status: Up
+Host: 198.185.159.144 ()	Ports: 443/open/tcp//https///, 2030/closed/tcp//device2///	Ignored State: filtered (998)
+Host: 34.252.37.39 (ec2-34-252-37-39.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 34.252.37.39 (ec2-34-252-37-39.eu-west-1.compute.amazonaws.com)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 143.204.9.59 (server-143-204-9-59.mxp64.r.cloudfront.net)	Status: Up
+Host: 143.204.9.59 (server-143-204-9-59.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.32 (server-99-86-162-32.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.32 (server-99-86-162-32.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 195.177.199.33 ()	Status: Up
+Host: 195.177.199.33 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.204.238.15 (ec2-54-204-238-15.compute-1.amazonaws.com)	Status: Up
+Host: 54.204.238.15 (ec2-54-204-238-15.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///	Ignored State: filtered (999)
+Host: 37.46.139.218 (free.cyso.net)	Status: Up
+Host: 37.46.139.218 (free.cyso.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.185.159.144 ()	Status: Up
+Host: 198.185.159.144 ()	Ports: 443/open/tcp//https///, 2030/closed/tcp//device2///	Ignored State: filtered (998)
+Host: 194.107.83.15 ()	Status: Up
+Host: 194.107.83.15 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 37.46.139.218 (free.cyso.net)	Status: Up
+Host: 37.46.139.218 (free.cyso.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.162.128.250 (ec2-54-162-128-250.compute-1.amazonaws.com)	Status: Up
+Host: 54.162.128.250 (ec2-54-162-128-250.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.14 (server-54-182-0-14.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.14 (server-54-182-0-14.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.208.141.225 (ec2-52-208-141-225.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 52.208.141.225 (ec2-52-208-141-225.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.145 ()	Status: Up
+Host: 194.107.83.145 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 465/closed/tcp//smtps///, 587/open/tcp//submission///	Ignored State: filtered (996)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.24 (a23-48-225-24.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.24 (a23-48-225-24.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.27 ()	Status: Up
+Host: 194.107.83.27 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 37.46.139.218 (free.cyso.net)	Status: Up
+Host: 37.46.139.218 (free.cyso.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.213.57.158 (a23-213-57-158.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.145 ()	Status: Up
+Host: 194.107.83.145 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 465/closed/tcp//smtps///, 587/open/tcp//submission///	Ignored State: filtered (996)
+Host: 213.227.189.32 ()	Status: Up
+Host: 213.227.189.32 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.21 ()	Status: Up
+Host: 213.227.189.21 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 63.32.161.232 (ec2-63-32-161-232.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 63.32.161.232 (ec2-63-32-161-232.eu-west-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.62 (server-54-182-0-62.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.62 (server-54-182-0-62.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.22 ()	Status: Up
+Host: 213.227.189.22 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.182.0.118 (server-54-182-0-118.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.118 (server-54-182-0-118.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.72 (server-13-227-138-72.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.72 (server-13-227-138-72.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.237 ()	Status: Up
+Host: 194.107.83.237 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.38 ()	Status: Up
+Host: 194.107.83.38 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.238 ()	Status: Up
+Host: 194.107.83.238 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 91.204.193.172 ()	Status: Up
+Host: 91.204.193.172 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.120.69.22 (22.69.120.34.bc.googleusercontent.com)	Status: Up
+Host: 34.120.69.22 (22.69.120.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 34.117.9.161 (161.9.117.34.bc.googleusercontent.com)	Status: Up
+Host: 34.117.9.161 (161.9.117.34.bc.googleusercontent.com)	Ports: 43/open/tcp//whois///, 80/open/tcp//http///, 83/open/tcp//mit-ml-dev///, 84/open/tcp//ctf///, 85/open/tcp//mit-ml-dev///, 89/open/tcp//su-mit-tg///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 700/open/tcp//epp///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 1084/open/tcp//ansoft-lm-2///, 1085/open/tcp//webobjects///, 1089/open/tcp//ff-annunc///, 1443/open/tcp//ies-lm///, 1935/open/tcp//rtmp///, 3389/open/tcp//ms-wbt-server///, 5222/open/tcp//xmpp-client///, 5432/open/tcp//postgresql///, 5900/open/tcp//vnc///, 5901/open/tcp//vnc-1///, 5999/open/tcp//ncd-conf///, 8080/open/tcp//http-proxy///, 8081/open/tcp//blackice-icecap///, 8085/open/tcp//unknown///, 8086/open/tcp//d-s-n///, 8088/open/tcp//radan-http///, 8089/open/tcp//unknown///, 8090/open/tcp//opsmessaging///, 8099/open/tcp//unknown///, 9100/open/tcp//jetdirect///, 9200/open/tcp//wap-wsp///, 20000/open/tcp//dnp///, 30000/open/tcp//ndmps///	Ignored State: filtered (963)
+Host: 54.237.133.81 (ec2-54-237-133-81.compute-1.amazonaws.com)	Status: Up
+Host: 54.237.133.81 (ec2-54-237-133-81.compute-1.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 34.216.62.112 (ec2-34-216-62-112.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 35.155.237.37 (ec2-35-155-237-37.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.192.128.227 (ec2-18-192-128-227.eu-central-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 5.8.181.59 (c2-5-8-181-59.elastic.cloud.croc.ru)	Status: Up
+Host: 5.8.181.59 (c2-5-8-181-59.elastic.cloud.croc.ru)	Ports: 80/closed/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 54.154.15.51 (ec2-54-154-15-51.eu-west-1.compute.amazonaws.com)	Status: Up
+Host: 54.154.15.51 (ec2-54-154-15-51.eu-west-1.compute.amazonaws.com)	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 443/open/tcp//https///, 8080/closed/tcp//http-proxy///	Ignored State: filtered (996)
+Host: 54.237.133.81 (ec2-54-237-133-81.compute-1.amazonaws.com)	Status: Up
+Host: 54.237.133.81 (ec2-54-237-133-81.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 52.59.169.199 (ec2-52-59-169-199.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 52.59.169.199 (ec2-52-59-169-199.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.193.61.41 (ec2-18-193-61-41.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 18.158.107.249 (ec2-18-158-107-249.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.107.249 (ec2-18-158-107-249.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 50.112.36.71 (ec2-50-112-36-71.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.11 (a23-48-225-11.deploy.static.akamaitechnologies.com)	Ports: 53/closed/tcp//domain///, 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Status: Up
+Host: 54.190.254.0 (ec2-54-190-254-0.us-west-2.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.33 ()	Status: Up
+Host: 217.175.192.33 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.33 ()	Status: Up
+Host: 217.175.192.33 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.33 ()	Status: Up
+Host: 217.175.192.33 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.33 ()	Status: Up
+Host: 217.175.192.33 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.44 ()	Status: Up
+Host: 194.107.83.44 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.151 ()	Status: Up
+Host: 194.107.83.151 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 873/open/tcp//rsync///, 2001/open/tcp//dc///	Ignored State: filtered (996)
+Host: 194.107.83.39 ()	Status: Up
+Host: 194.107.83.39 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 873/open/tcp//rsync///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.21 ()	Status: Up
+Host: 213.227.189.21 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Status: Up
+Host: 18.158.37.77 (ec2-18-158-37-77.eu-central-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 213.227.189.20 ()	Status: Up
+Host: 213.227.189.20 ()	Ports: 80/open/tcp//http///, 113/closed/tcp//ident///, 443/open/tcp//https///	Ignored State: filtered (997)
+Host: 198.22.138.70 ()	Status: Up
+Host: 198.22.138.70 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 198.22.138.60 ()	Status: Up
+Host: 198.22.138.60 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 198.22.138.70 ()	Status: Up
+Host: 198.22.138.70 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 7002/open/tcp//afs3-prserver///	Ignored State: filtered (997)
+Host: 91.204.193.174 ()	Status: Up
+Host: 91.204.193.174 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 52.221.78.125 (ec2-52-221-78-125.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 52.221.78.125 (ec2-52-221-78-125.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 198.185.159.177 ()	Status: Up
+Host: 198.185.159.177 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 2030/closed/tcp//device2///	Ignored State: filtered (997)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.57 (server-13-227-138-57.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.57 (server-13-227-138-57.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.52 (server-54-182-0-52.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.52 (server-54-182-0-52.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 194.107.83.18 ()	Status: Up
+Host: 194.107.83.18 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 212.162.13.166 (d166b.x-mailer.de)	Status: Up
+Host: 212.162.13.166 (d166b.x-mailer.de)	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///, 110/open/tcp//pop3///, 143/open/tcp//imap///, 443/open/tcp//https///, 465/open/tcp//smtps///, 587/open/tcp//submission///, 993/open/tcp//imaps///, 995/open/tcp//pop3s///, 3306/open/tcp//mysql///, 8443/open/tcp//https-alt///
+Host: 91.204.193.163 ()	Status: Up
+Host: 91.204.193.163 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.120 (server-54-182-0-120.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.120 (server-54-182-0-120.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.227.138.101 (server-13-227-138-101.bom50.r.cloudfront.net)	Status: Up
+Host: 13.227.138.101 (server-13-227-138-101.bom50.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.182.0.19 (server-54-182-0-19.bom52.r.cloudfront.net)	Status: Up
+Host: 54.182.0.19 (server-54-182-0-19.bom52.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 104.120.66.230 (a104-120-66-230.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.33 (a23-48-225-33.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.50.253.147 (a23-50-253-147.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 51.144.182.8 ()	Status: Up
+Host: 51.144.182.8 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 51.144.182.8 ()	Status: Up
+Host: 51.144.182.8 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 99.86.162.49 (server-99-86-162-49.mxp64.r.cloudfront.net)	Status: Up
+Host: 99.86.162.49 (server-99-86-162-49.mxp64.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.35 (a23-48-225-35.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 217.175.192.21 ()	Status: Up
+Host: 217.175.192.21 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Status: Up
+Host: 23.48.225.34 (a23-48-225-34.deploy.static.akamaitechnologies.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Sat Dec 11 03:12:17 2021 -- 755 IP addresses (735 hosts up) scanned in 4168.68 seconds
